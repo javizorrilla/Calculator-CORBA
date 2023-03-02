@@ -1,7 +1,7 @@
 # CALCULATOR-CORBA by Javier Zorrilla Serrano
 Different functionalities of a calculator using the CORBA protocol.
 
-### To consider
+## To consider
 The operating system used is Windows. In addition, JDK 8, the Visual Studio Code IDE environment and the Java programming language have been used.
 
 ## Steps to run client-server application
